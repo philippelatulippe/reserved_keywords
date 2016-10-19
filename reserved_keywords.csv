@@ -1,0 +1,421 @@
+language,version,keyword,context
+python,3.5,False,
+python,3.5,None,
+python,3.5,True,
+python,3.5,and,
+python,3.5,as,
+python,3.5,assert,
+python,3.5,break,
+python,3.5,class,
+python,3.5,continue,
+python,3.5,def,
+python,3.5,del,
+python,3.5,elif,
+python,3.5,else,
+python,3.5,except,
+python,3.5,finally,
+python,3.5,for,
+python,3.5,from,
+python,3.5,global,
+python,3.5,if,
+python,3.5,import,
+python,3.5,in,
+python,3.5,is,
+python,3.5,lambda,
+python,3.5,nonlocal,
+python,3.5,not,
+python,3.5,or,
+python,3.5,pass,
+python,3.5,raise,
+python,3.5,return,
+python,3.5,try,
+python,3.5,while,
+python,3.5,with,
+python,3.5,yield,
+php,7.0,__halt_compiler, function 
+php,7.0,abstract,
+php,7.0,and,
+php,7.0,array, function 
+php,7.0,as,
+php,7.0,break,
+php,5.4,callable,
+php,7.0,case,
+php,7.0,catch,
+php,7.0,class,
+php,7.0,clone,
+php,7.0,const,
+php,7.0,continue,
+php,7.0,declare,
+php,7.0,default,
+php,7.0,die, function 
+php,7.0,do,
+php,7.0,echo,
+php,7.0,else,
+php,7.0,elseif,
+php,7.0,empty, function 
+php,7.0,enddeclare,
+php,7.0,endfor,
+php,7.0,endforeach,
+php,7.0,endif,
+php,7.0,endswitch,
+php,7.0,endwhile,
+php,7.0,eval, function 
+php,7.0,exit, function 
+php,7.0,extends,
+php,7.0,final,
+php,5.5,finally,
+php,7.0,for,
+php,7.0,foreach,
+php,7.0,function,
+php,7.0,global,
+php,5.3,goto,
+php,7.0,if,
+php,7.0,implements,
+php,7.0,include,
+php,7.0,include_once,
+php,7.0,instanceof,
+php,5.4,insteadof,
+php,7.0,interface,
+php,7.0,isset, function
+php,7.0,list, function 
+php,5.3,namespace,
+php,7.0,new,
+php,7.0,or,
+php,7.0,print,
+php,7.0,private,
+php,7.0,protected,
+php,7.0,public,
+php,7.0,require,
+php,7.0,require_once,
+php,7.0,return,
+php,7.0,static,
+php,7.0,switch,
+php,7.0,throw,
+php,5.4,trait,
+php,7.0,try,
+php,7.0,unset, function 
+php,7.0,use,
+php,7.0,var,
+php,7.0,while,
+php,7.0,xor,
+php,7.0,yield,
+php,7.0,__CLASS__,
+php,5.3,__DIR__,
+php,7.0,__FILE__,
+php,7.0,__FUNCTION__,
+php,7.0,__LINE__,
+php,7.0,__METHOD__,
+php,5.3,__NAMESPACE__,
+php,7.0,__TRAIT__,
+swift,3.0,associatedtype, declarations
+swift,3.0,class, declarations
+swift,3.0,deinit, declarations
+swift,3.0,enum, declarations
+swift,3.0,extension, declarations
+swift,3.0,fileprivate, declarations
+swift,3.0,func, declarations
+swift,3.0,import, declarations
+swift,3.0,init, declarations
+swift,3.0,inout, declarations
+swift,3.0,internal, declarations
+swift,3.0,let, declarations
+swift,3.0,open, declarations
+swift,3.0,operator, declarations
+swift,3.0,private, declarations
+swift,3.0,protocol, declarations
+swift,3.0,public, declarations
+swift,3.0,static, declarations
+swift,3.0,struct, declarations
+swift,3.0,subscript, declarations
+swift,3.0,typealias, declarations
+swift,3.0,var, declarations
+swift,3.0,break, statements
+swift,3.0,case, statements
+swift,3.0,continue, statements
+swift,3.0,default, statements
+swift,3.0,defer, statements
+swift,3.0,do, statements
+swift,3.0,else, statements
+swift,3.0,fallthrough, statements
+swift,3.0,for, statements
+swift,3.0,guard, statements
+swift,3.0,if, statements
+swift,3.0,in, statements
+swift,3.0,repeat, statements
+swift,3.0,return, statements
+swift,3.0,switch, statements
+swift,3.0,where, statements
+swift,3.0,while, statements
+swift,3.0,as, expressions and types
+swift,3.0,Any, expressions and types
+swift,3.0,catch, expressions and types
+swift,3.0,false, expressions and types
+swift,3.0,is, expressions and types
+swift,3.0,nil, expressions and types
+swift,3.0,rethrows, expressions and types
+swift,3.0,super, expressions and types
+swift,3.0,self, expressions and types
+swift,3.0,Self, expressions and types
+swift,3.0,throw, expressions and types
+swift,3.0,throws, expressions and types
+swift,3.0,true, expressions and types
+swift,3.0,try, expressions and types
+swift,3.0,_, patterns
+swift,3.0,#available,
+swift,3.0,#colorLiteral,
+swift,3.0,#column,
+swift,3.0,#else,
+swift,3.0,#elseif,
+swift,3.0,#endif,
+swift,3.0,#file,
+swift,3.0,#fileLiteral,
+swift,3.0,#function,
+swift,3.0,#if,
+swift,3.0,#imageLiteral,
+swift,3.0,#line,
+swift,3.0,#selector,
+swift,3.0,#sourceLocation,
+swift,3.0,associativity, special contexts only
+swift,3.0,convenience, special contexts only
+swift,3.0,dynamic, special contexts only
+swift,3.0,didSet, special contexts only
+swift,3.0,final, special contexts only
+swift,3.0,get, special contexts only
+swift,3.0,infix, special contexts only
+swift,3.0,indirect, special contexts only
+swift,3.0,lazy, special contexts only
+swift,3.0,left, special contexts only
+swift,3.0,mutating, special contexts only
+swift,3.0,none, special contexts only
+swift,3.0,nonmutating, special contexts only
+swift,3.0,optional, special contexts only
+swift,3.0,override, special contexts only
+swift,3.0,postfix, special contexts only
+swift,3.0,precedence, special contexts only
+swift,3.0,prefix, special contexts only
+swift,3.0,Protocol, special contexts only
+swift,3.0,required, special contexts only
+swift,3.0,right, special contexts only
+swift,3.0,set, special contexts only
+swift,3.0,Type, special contexts only
+swift,3.0,unowned, special contexts only
+swift,3.0,weak, special contexts only
+swift,3.0,willSet, special contexts only
+java,8.0,abstract,
+java,8.0,continue,
+java,8.0,for,
+java,8.0,new,
+java,8.0,switch,
+java,8.0,assert,
+java,8.0,default,
+java,8.0,if,
+java,8.0,package,
+java,8.0,synchronized,
+java,8.0,boolean,
+java,8.0,do,
+java,8.0,goto,
+java,8.0,private,
+java,8.0,this,
+java,8.0,break,
+java,8.0,double,
+java,8.0,implements,
+java,8.0,protected,
+java,8.0,throw,
+java,8.0,byte,
+java,8.0,else,
+java,8.0,import,
+java,8.0,public,
+java,8.0,throws,
+java,8.0,case,
+java,8.0,enum,
+java,8.0,instanceof,
+java,8.0,return,
+java,8.0,transient,
+java,8.0,catch,
+java,8.0,extends,
+java,8.0,int,
+java,8.0,short,
+java,8.0,try,
+java,8.0,char,
+java,8.0,final,
+java,8.0,interface,
+java,8.0,static,
+java,8.0,void,
+java,8.0,class,
+java,8.0,finally,
+java,8.0,long,
+java,8.0,strictfp,
+java,8.0,volatile,
+java,8.0,const,
+java,8.0,float,
+java,8.0,native,
+java,8.0,super,
+java,8.0,while,
+C,ansi,auto,
+C,ansi,break,
+C,ansi,case,
+C,ansi,char,
+C,ansi,const,
+C,ansi,continue,
+C,ansi,default,
+C,ansi,do,
+C,ansi,double,
+C,ansi,else,
+C,ansi,enum,
+C,ansi,extern,
+C,ansi,float,
+C,ansi,for,
+C,ansi,goto,
+C,ansi,if,
+C,ansi,int,
+C,ansi,long,
+C,ansi,register,
+C,ansi,return,
+C,ansi,short,
+C,ansi,signed,
+C,ansi,sizeof,
+C,ansi,static,
+C,ansi,struct,
+C,ansi,switch,
+C,ansi,typedef,
+C,ansi,union,
+C,ansi,unsigned,
+C,ansi,void,
+C,ansi,volatile,
+C,ansi,while,
+C,ansi,entry,
+C,C11,inline,
+C,C11,restrict,
+C,C11,_alignas,
+C,C11,_Alignof,
+C,C11,_Atomic,
+C,C11,_Bool,
+C,C11,_Complex,
+C,C11,_Generic,
+C,C11,_Imaginary,
+C,C11,_Noreturn,
+C,C11,_Static_assert,
+C,C11,_Thread_local,
+javascript,6,break,
+javascript,6,case,
+javascript,6,catch,
+javascript,6,class,
+javascript,6,const,
+javascript,6,continue,
+javascript,6,debugger,
+javascript,6,default,
+javascript,6,delete,
+javascript,6,do,
+javascript,6,else,
+javascript,6,export,
+javascript,6,extends,
+javascript,6,finally,
+javascript,6,for,
+javascript,6,function,
+javascript,6,if,
+javascript,6,import,
+javascript,6,in,
+javascript,6,instanceof,
+javascript,6,new,
+javascript,6,return,
+javascript,6,super,
+javascript,6,switch,
+javascript,6,this,
+javascript,6,throw,
+javascript,6,try,
+javascript,6,typeof,
+javascript,6,var,
+javascript,6,void,
+javascript,6,while,
+javascript,6,with,
+javascript,6,yield,
+javascript,6,enum,
+javascript,6,implements,
+javascript,6,interface,
+javascript,6,let,
+javascript,6,package,
+javascript,6,private,
+javascript,6,protected,
+javascript,6,public,
+javascript,6,static,
+javascript,6,await,
+javascript,6,abstract,
+javascript,6,boolean,
+javascript,6,byte,
+javascript,6,char,
+javascript,6,double,
+javascript,6,final,
+javascript,6,float,
+javascript,6,goto,
+javascript,6,int,
+javascript,6,long,
+javascript,6,native,
+javascript,6,short,
+javascript,6,synchronized,
+javascript,6,throws,
+javascript,6,transient,
+javascript,6,volatile,
+go,1.7,break,
+go,1.7,default,
+go,1.7,func,
+go,1.7,interface,
+go,1.7,select,
+go,1.7,case,
+go,1.7,defer,
+go,1.7,go,
+go,1.7,map,
+go,1.7,struct,
+go,1.7,chan,
+go,1.7,else,
+go,1.7,goto,
+go,1.7,package,
+go,1.7,switch,
+go,1.7,const,
+go,1.7,fallthrough,
+go,1.7,if,
+go,1.7,range,
+go,1.7,type,
+go,1.7,continue,
+go,1.7,for,
+go,1.7,import,
+go,1.7,return,
+go,1.7,var,
+ruby,2.3,alias,
+ruby,2.3,and,
+ruby,2.3,BEGIN,
+ruby,2.3,begin,
+ruby,2.3,break,
+ruby,2.3,case,
+ruby,2.3,class,
+ruby,2.3,def,
+ruby,2.3,defined?,
+ruby,2.3,do,
+ruby,2.3,else,
+ruby,2.3,elsif,
+ruby,2.3,END,
+ruby,2.3,end,
+ruby,2.3,ensure,
+ruby,2.3,false,
+ruby,2.3,for,
+ruby,2.3,if,
+ruby,2.3,module,
+ruby,2.3,next,
+ruby,2.3,nil,
+ruby,2.3,not,
+ruby,2.3,or,
+ruby,2.3,redo,
+ruby,2.3,rescue,
+ruby,2.3,retry,
+ruby,2.3,return,
+ruby,2.3,self,
+ruby,2.3,super,
+ruby,2.3,then,
+ruby,2.3,true,
+ruby,2.3,undef,
+ruby,2.3,unless,
+ruby,2.3,until,
+ruby,2.3,when,
+ruby,2.3,while,
+ruby,2.3,yield,
+ruby,2.3,__FILE__,
+ruby,2.3,__LINE__,
